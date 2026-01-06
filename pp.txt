@@ -1,5 +1,0 @@
-{
-  "message": "Create a new file",    // Commit message
-  "content": "{{encodedFileDataa}}",   // File content in Base64
-  "branch": "main"                   // Optional, defaults to default branch
-}
